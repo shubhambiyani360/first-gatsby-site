@@ -11,7 +11,7 @@ const IndexPage = () => {
         alt="Clifford, a reddish-brown pitbull, posing on a couch and looking stoically at the camera"
         src="https://pbs.twimg.com/media/E1oMV3QVgAIr1NT?format=jpg&name=large"
       /> */}
-      <img src="https://pbs.twimg.com/media/E1oMV3QVgAIr1NT?format=jpg&name=large" height={300} width={350}></img>
+      <img src="https://pbs.twimg.com/media/E1oMV3QVgAIr1NT?format=jpg&name=large" alt='Dog image' height={300} width={350}></img>
     </Layout>
   )
 }
